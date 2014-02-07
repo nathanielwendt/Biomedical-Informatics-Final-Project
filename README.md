@@ -17,8 +17,10 @@ to our system and must be executed in MySQL workbench or another MySQL tool.  Th
 and is called runcachetable.sql.  This will create and populate the table adr that allows for faster querries in the
 program.
 
+
 Netbeans File Structure:
 FinalProject
+
 	Web Pages
 		META-INF
 		WEB-INF
